@@ -4,7 +4,6 @@
  <p>🌱 Aprendendo Python</p>
 
  <br>
- <br>
  
  <div>
   <a href="https://github.com/rayssakelly">
