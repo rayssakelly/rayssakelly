@@ -2,6 +2,7 @@
 
  <p>📚 Cursando Ciência da Computação</p>
  <p>🌱 Aprendendo Python</p>
+ <p>:bar_chart: Estudando Data Analytics</p>
 
  <br>
  
