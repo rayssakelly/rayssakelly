@@ -6,12 +6,6 @@
 
  <br>
  
-<div>
-  <a href="https://github.com/rayssakelly">
-  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=rayssakelly&count_private=true&show_icons=true&bg_color=400f4B&text_color=7BDF02&icon_color=58678D&title_color=ffff" >
- </div>
- 
- 
  <br>
  <br>
  
