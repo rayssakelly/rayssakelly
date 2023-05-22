@@ -1,8 +1,7 @@
 # Olá, eu sou Rayssa!
 
  <p>📚 Ciência da Computação</p>
- <p>🌱 Python, HTML, CSS</p>
- <p>:bar_chart:Data Analytics</p>
+
 
  <br>
  
