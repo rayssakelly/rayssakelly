@@ -1,4 +1,4 @@
-# Hi! I'm Rayssa!:wave:
+# Hi! I'm Rayssa! :wave:
 
  <p>📚 Computer Science </p>
 
