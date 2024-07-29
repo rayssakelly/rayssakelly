@@ -1,10 +1,9 @@
-# Olá, eu sou Rayssa!
+# Hi! I'm Rayssa!:wave:
 
- <p>📚 Ciência da Computação</p>
+ <p>📚 Computer Science </p>
 
 
  <br>
- 
  <br>
  <br>
  
